@@ -3,14 +3,14 @@ Seongyoung Kang
 ============
   
 -------------------     ----------------------------
-Jeongneung-ro 8-gil, Seongbuk-gu, Seoul, Republic of Korea
-ksy9164@gmail.com | Github : https://github.com/ksy9164
-(+82) 10-2300-9164 (KR)  |  Linked-in : https://www.linkedin.com/in/seongyoung-kang/
+Jeongneung-ro 8-gil, Seongbuk-gu, Seoul, Republic of Korea  
+ksy9164@gmail.com | Github : https://github.com/ksy9164  
+(+82) 10-2300-9164 (KR)  |  Linked-in : https://www.linkedin.com/in/seongyoung-kang/  
 -------------------     ----------------------------
   
 Education
 ---------
-**University of Kookmin University, B.S. Computer Science Seoul, South Korea**
+**University of Kookmin University, B.S. Computer Science Seoul, South Korea**  
     * Major GPA: 3.68/4.5, Overall GPA:3.3/4.5
     * Key course in Computer Science : Operating System,Computer Archtecture,Data structure,Heterogeneous computing, Big Data platform.
   
@@ -24,14 +24,14 @@ Experience
   
 ###### <div style="text-align: left">Profiler, Benchmark Developer</div> <div style="text-align: right">Jun,18-Aug,18</div>
   
-* Implemented CPU,GPU Dynamic Profiler for SnapDragon-835 platform.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CPU Profiler was implemented by running Perf for each CPU core,
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The GPU Profiler was implemented by reading information from the kernel.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I also have created a multithreaded program to do this in parallel.
-* Implemented benchmarks
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modified the Deep Learning Code(Caffe) for mobile platform.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented Bash shell scripts to automate the benchmark and Python code for make graph.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modified canny edge detector code for CPU(OpenMP), GPU(OpenCL).
+* Implemented CPU,GPU Dynamic Profiler for SnapDragon-835 platform.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CPU Profiler was implemented by running Perf for each CPU core,  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The GPU Profiler was implemented by reading information from the kernel.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I also have created a multithreaded program to do this in parallel.  
+* Implemented benchmarks  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modified the Deep Learning Code(Caffe) for mobile platform.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented Bash shell scripts to automate the benchmark and Python code for make graph.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modified canny edge detector code for CPU(OpenMP), GPU(OpenCL).  
 ---
 #### Kookmin University
   
@@ -39,11 +39,11 @@ Experience
   
 ###### Researcher <div style="text-align: right">Dec,16-Dec,17</div>
   
-* Optimized Deep Learning functions for Manycore CPU.
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multithreaded Deep Learning code (OpenMP).
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adapted MKL(Math Kernel Library) to Deep Learning code .
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vectorized Deep Learning code (AVX-512).
-* Ported Deep Learning functions to Python.
+* Optimized Deep Learning functions for Manycore CPU.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Multithreaded Deep Learning code (OpenMP).  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adapted MKL(Math Kernel Library) to Deep Learning code .  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vectorized Deep Learning code (AVX-512).  
+* Ported Deep Learning functions to Python.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented wrapper(Boost Python) to porting C code to Pytho
 --------
 #### Seoul National University
