@@ -11,7 +11,7 @@ ksy9164@gmail.com | Github : https://github.com/ksy9164
 Education
 ---------
 **University of Kookmin University, B.S. Computer Science Seoul, South Korea**  
-    * Major GPA: 3.68/4.5, Overall GPA:3.3/4.5  
+    * Major GPA: 3.79/4.5
     * Key course in Computer Science : Operating System,Computer Archtecture,Data structure,Heterogeneous computing, Big Data platform.  
   
 -----------------------------
@@ -56,9 +56,9 @@ Experience
   
 Honors & Awards
 -------
+* 2018 LINE blockchain competition - 1st prize
 * 2017 Chairman of Korea science foundation -1st prize
 * 2017 CPS creativity competition Daegu mayor prize - 3rd prize
-* 2016 Kookmin university algorithm prize - 3rd prize
 ---------
 Papers
 -----
