@@ -18,6 +18,17 @@ Education
 Experience
 ----------
   
+#### Lablup Inc.
+  
+##### Winter Intership  
+
+###### Backend.AI Package Maintainer <div style="text-align: right">Dec,18-Feb,19</div>
+  
+* Implemented Debian Packages, Debian Repository.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented Debian Packages for install Backend.AI.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented Debian Repository for release Backend.AI Packages.  
+--------
+
 #### University of California, Irvine
   
 ##### <div style="text-align: left">Dynamic Resource Management for Mobile Heterogeneous Platform</div> <div style="text-align: right">Advisor : Prof. Nikil Dutt</div>
