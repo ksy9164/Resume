@@ -25,8 +25,10 @@ Experience
 ###### Backend.AI Package Maintainer <div style="text-align: right">Dec,18-Feb,19</div>
   
 * Implemented Debian Packages, Debian Repository.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented Debian Packages for install Backend.AI.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Packaged all the dependent modules needed for install Backend.AI.    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented Debian Repository for release Backend.AI Packages.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made Backend.AI installation script.  
+
 --------
 
 #### University of California, Irvine
@@ -38,7 +40,7 @@ Experience
 * Implemented CPU,GPU Dynamic Profiler for SnapDragon-835 platform.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The CPU Profiler was implemented by running Perf for each CPU core,  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The GPU Profiler was implemented by reading information from the kernel.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I also have created a multithreaded program to do this in parallel.  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I also have implemented a multithreaded program to do this in parallel.  
 * Implemented benchmarks  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Modified the Deep Learning Code(Caffe) for mobile platform.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented Bash shell scripts to automate the benchmark and Python code for make graph.  
