@@ -25,7 +25,7 @@ Experience
 ###### Backend.AI Package Maintainer <div style="text-align: right">Dec,18-Feb,19</div>
   
 * Implemented Debian Packages, Debian Repository.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Packaged all the dependent modules needed for install Backend.AI.    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I have Packaged all the dependent modules needed for Backend.AI installation.    
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented Debian Repository for release Backend.AI Packages.  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Made Backend.AI installation script.  
 
