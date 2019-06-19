@@ -12,10 +12,22 @@ Education
 ---------
 **University of Kookmin University, B.S. Computer Science Seoul, South Korea**  
     * Major GPA: 3.79/4.5   
-    * Key course in Computer Science : Operating System,Computer Archtecture,Data structure,Heterogeneous computing, Big Data platform.  
+    * Key course in Computer Science : Operating System,Computer Archtecture,Data structure,Heterogeneous computing, Big Data platform, Software architecture.  
   
 -----------------------------
 Experience
+----------
+  
+#### EV-Lock   
+  
+##### LINE Blockchain Competition (1st Prize)    
+
+###### SmartMeter Developer    
+  
+* Developed SmartMeter for P2P energy trading that improved Device security.    
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented secure store platform by using ARM TrustZone.     
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented a platform that supports using SmartContracts on SmartMeter.        
+
 ----------
   
 #### Lablup Inc.
@@ -57,7 +69,7 @@ Experience
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adapted MKL(Math Kernel Library) to Deep Learning code .  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Vectorized Deep Learning code (AVX-512).  
 * Ported Deep Learning functions to Python.  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented wrapper(Boost Python) to porting C code to Pytho
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented wrapper(Boost Python) to porting C code to Python   
 --------
 #### Seoul National University
   
@@ -81,7 +93,7 @@ Papers
 --------
 Skills
 ------
-* Computer language : C, C++, Bash, Python, CUDA.
-* Platform / Tools : Ubuntu, Git, Hadoop, Snapdragon, Samsung Artik.
-* Language: Korean, English(intermediate).
+* Computer language : C, C++, Bash, Python, NodeJS, Solidity, CUDA, java.   
+* Platform / Tools : Ubuntu, AWS, Docker, Git, Hadoop, Snapdragon, Samsung Artik.   
+* Language: Korean, English(Basic).   
   
