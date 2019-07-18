@@ -11,7 +11,7 @@ ksy9164@gmail.com | Github : https://github.com/ksy9164
 Education
 ---------
 **University of Kookmin University, B.S. Computer Science Seoul, South Korea**  
-    * Major GPA: 3.79/4.5   
+    * Major GPA: 3.86/4.5   
     * Key course in Computer Science : Operating System,Computer Archtecture,Data structure,Heterogeneous computing, Big Data platform, Software architecture.  
   
 -----------------------------
